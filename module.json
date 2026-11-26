@@ -1,0 +1,18 @@
+{
+    "id": "rolforge-importer",
+    "title": "RolForge Importer",
+    "description": "Importador de personajes de RolForge para Foundry VTT.",
+    "version": "0.1.0",
+    "compatibility": {
+        "minimum": "14",
+        "verified": "14"
+    },
+    "authors": [
+        {
+            "name": "FranDelagua"
+        }
+    ],
+    "esmodules": [
+        "scripts/main.js"
+    ]
+}
